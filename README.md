@@ -1,3 +1,7 @@
+![Image description
+Graphic of Anthony Campolo and Jenn Junod stating "Teach Jenn Docker Basics" with Docker logo of whale with containers on it's back](https://user-images.githubusercontent.com/77285384/231283102-71484925-5f15-47b2-a66e-f3c75d258ff9.png)
+
+
 # Teach Jenn Docker
 
 Based on Anthony Campolo's blog article, [A First Look at Docker](https://ajcwebdev.com/2021/07/12/a-first-look-at-docker/).
